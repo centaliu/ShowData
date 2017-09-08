@@ -1,0 +1,7 @@
+*.suo
+*.exe
+*.pdb
+*.manifest
+*.cache
+ShowData/bin/
+ShowData/obj/
